@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-02-06T15:51:36.476Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel da casa",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1950,
+      "createdAt": "2023-02-06T15:51:36.476Z"
     }
   ]
 }
