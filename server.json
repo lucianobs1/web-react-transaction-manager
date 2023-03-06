@@ -23,6 +23,30 @@
       "category": "Casa",
       "price": 1950,
       "createdAt": "2023-02-06T15:51:36.476Z"
+    },
+    {
+      "description": "Venda de mouse",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-06T21:51:15.470Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza Hut",
+      "price": 50,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2023-03-06T21:58:03.608Z",
+      "id": 5
+    },
+    {
+      "description": "Desonvimento de API",
+      "price": 6000,
+      "category": "Desenvolvimento",
+      "type": "income",
+      "createdAt": "2023-03-06T22:16:09.265Z",
+      "id": 6
     }
   ]
 }
